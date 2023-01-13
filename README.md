@@ -59,4 +59,4 @@ The system attends to challenges that are experienced in the sector in addition 
      <li>After the project has been created, start Laravel's local development server using the Laravel's Artisan CLI serve command: <i>php artisan serve.</i></li>
      <li>Started the Artisan development server, application will be accessible iweb browser at <u>http://localhost:8000</u></li>
    </ol>
-   <img width="100%" height="300px" src="https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?auto=compress&cs=tinysrgb&w=600">
+   <img width="100%" height="300px" src="https://github.com/IT20660352-dasu/Queue-Managment-System/blob/master/82309056-3271-490a-868c-10fab5bbb7de.png">
