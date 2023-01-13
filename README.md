@@ -32,9 +32,7 @@ The system attends to challenges that are experienced in the sector in addition 
    <li>VS Code</li>
    <li>XAMPP</li>
    <li>GitHub</li>
-   <li>Azure Board</li>
-   <li>SonarQube</li>
-   <li>Selenium</li>
+  
  </ul>
   <h3>Resources</h3>
    <ul>
