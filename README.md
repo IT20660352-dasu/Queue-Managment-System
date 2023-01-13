@@ -1,6 +1,6 @@
 <h1>OneSmartBee(PVT)LTD</h1>
 <h1>Project Name: <i>"OnesmartBee" Queue Management System</i></h1>
-<img alt="Queue" height="400px" src="https://www.google.com/search?q=queue+management+system&sxsrf=AJOqlzVO36Z2AUshtgPe9ZLR6QwnYhcdzw:1673592044278&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiA97Ca-MP8AhXgyXMBHXN3AiQQ_AUoAXoECAEQAw&biw=1366&bih=568&dpr=1#imgrc=2655-xLxUCXhgM">
+<img alt="Queue" height="400px" src="https://github.com/IT20660352-dasu/Queue-Managment-System/blob/master/queue-management-esii%20(1).png">
 
 <h1>Project Description: </h1>
 <p>The majority of the time, Queue Management for the Heath Division industry is a manual procedure. It might also be regarded as one of the largest supply chain networks, with a variety of stakeholders like patients, Doctors, laboratory staff and etc. The suggested solution aims to centralize the process and address frequent problems with the current method. Wherever possible, the system would be automated to cut down on the steps required to complete a given activity and to make the process considerably simpler.  patients, Doctors, laboratory staff and nurses  would be the major stakeholders, or rather, users, of the system. The management would be in charge of the system's fundamental but crucial data and policies.
